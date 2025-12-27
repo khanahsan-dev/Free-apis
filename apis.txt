@@ -1,0 +1,15 @@
+ADD FRIEND/REMOVE FRIEND API 🔥
+APIS FOR ADD FRIEND :-
+https://kallu-add-friend.vercel.app/adding_friend?uid={guest_uid}&password={guest_password}&friend_uid={target_uid}
+
+EXAMPLE:-
+https://kallu-add-friend.vercel.app/adding_friend?uid=4231734356&password=69BBE0EF5291CC5F53BD8E141BB6967BBB0D85B472607DE9D60BC4B95BF53925&friend_uid=4368569733
+
+APIS FOR REMOVE FRIEND:-
+https://kallu-add-friend.vercel.app/remove_friend?uid={guest_uid}&password={guest_password}&friend_uid={target_uid}
+
+EXAMPLE:-
+https://kallu-add-friend.vercel.app/remove_friend?uid=4231734356&password=69BBE0EF5291CC5F53BD8E141BB6967BBB0D85B472607DE9D60BC4B95BF53925&friend_uid=4368569733
+
+DEVELOPER:- T.ME/KALLU_CODEX076
+MAIN CHANNEL:- T.ME/KALLU_CODEX
